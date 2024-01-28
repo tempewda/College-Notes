@@ -57,7 +57,7 @@ Threads share code/data but have different copies of stacks/registers
 
 # Process States
 
-![[Pasted image 20240128102442.png]]
+![Process States Diagram](https://github.com/tempewda/College-Notes/blob/master/Operating%20System/assets/Process%20States%20Diagram.png?raw=true)
 
 - Long Term Scheduler
     Moves a process frm New to Ready state
